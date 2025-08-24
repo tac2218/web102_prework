@@ -21,12 +21,11 @@ none
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features:
+Here's a walkthrough of implemented features...
 
-<img src='https://youtu.be/v2ik3tnecjY' title='CodePath Walkthrough' width='' alt='CodePath Walkthrough' />
+CodePath Project Walkthrough: https://youtu.be/v2ik3tnecjY
 
-<!-- Replace this with whatever GIF tool you used! -->
-Created with Apple Screen Recording
+Video created with Apple Screen Recording
 
 ## Notes
 
